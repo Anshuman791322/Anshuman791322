@@ -1,16 +1,19 @@
+<table border="0">
+  <tr>
+    <td width="200" align="center" valign="middle">
+      <img src="https://anshuman791322.github.io/avatar-cut.png" alt="Anshuman Singh" width="170">
+    </td>
+    <td valign="middle">
+      <h1>Anshuman Singh</h1>
+      <p>Computer Science Engineering student building software with AI, machine learning, and modern web technologies.</p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://anshuman791322.github.io/avatar-cut.png" alt="Anshuman Singh" width="190">
-</p>
-
-<h1 align="center">Anshuman Singh</h1>
-
-<p align="center">Computer Science Engineering student building software with AI, machine learning, and modern web technologies.</p>
-
-<p align="center">
-  <a href="https://anshuman791322.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-28E6B7?style=for-the-badge&labelColor=28E6B7&color=28E6B7" alt="Portfolio"></a>
-  <a href="mailto:Anshuman6062@gmail.com"><img src="https://img.shields.io/badge/EMAIL-28E6B7?style=for-the-badge&labelColor=28E6B7&color=28E6B7" alt="Email"></a>
-  <a href="https://github.com/Anshuman791322"><img src="https://img.shields.io/badge/GITHUB-28E6B7?style=for-the-badge&labelColor=28E6B7&color=28E6B7" alt="GitHub"></a>
-  <a href="https://github.com/Anshuman791322/aqg-studio"><img src="https://img.shields.io/badge/FEATURED_PROJECT-28E6B7?style=for-the-badge&labelColor=28E6B7&color=28E6B7" alt="Featured project"></a>
+  <a href="https://anshuman791322.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" alt="Portfolio"></a>
+  <a href="mailto:Anshuman6062@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" alt="Email"></a>
+  <a href="https://github.com/Anshuman791322"><img src="https://img.shields.io/badge/GITHUB-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" alt="GitHub"></a>
 </p>
 
 ## About
@@ -47,38 +50,15 @@ A machine learning project using Gaia DR3 photometry to classify RR Lyrae, Cephe
 
 A public Android APK distribution repository for a driver-monitoring dashboard.
 
-## Collaboration project cards
+## Collaboration Projects
 
-Selected projects I contributed to with Lakshay-13 and other collaborators. Each card links to the project.
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://lakshay-13.github.io/fren/"><img src="https://img.shields.io/badge/FREN_BOT-AI_community_platform-28E6B7?style=for-the-badge&labelColor=0B1220" alt="FREN Bot"></a>
-      <br><sub>Community platform with games, moderation, social features, and AI utilities.</sub>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://lakshay-13.github.io/zinging/"><img src="https://img.shields.io/badge/ZINGING-Agentic_AI_bot-28E6B7?style=for-the-badge&labelColor=0B1220" alt="Zinging"></a>
-      <br><sub>Self-evolving bot and agent ecosystem for communities and automation.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://lakshay-13.github.io/host/"><img src="https://img.shields.io/badge/HOST-Developer_hosting-28E6B7?style=for-the-badge&labelColor=0B1220" alt="Host"></a>
-      <br><sub>Developer-first hosting platform for deploying projects with simple workflows.</sub>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://tree.nextgenaischool.in/"><img src="https://img.shields.io/badge/TREE-Identity_profiles-28E6B7?style=for-the-badge&labelColor=0B1220" alt="Tree"></a>
-      <br><sub>Interactive identity and profile platform built around tree-based surfaces.</sub>
-    </td>
-  </tr>
-</table>
-
-### Other collaboration work
-
-- [ArtGridX](https://artgridx.nextgenaischool.in): contributions to a portfolio platform for artists, studios, and independent creatives.
-- `Humanify`: collaborative development with Lakshay-13.
-- `Hunar`: collaborative development with Lakshay-13.
+- **[FREN Bot](https://lakshay-13.github.io/fren/):** AI-powered community platform with games, moderation, social features, AI utilities, and premium workflows.
+- **[Zinging](https://lakshay-13.github.io/zinging/):** Production-oriented Discord assistant bot with NVIDIA NIM-powered workflows, database-backed memory, caching, translation, and Railway deployment readiness.
+- **[Host](https://host.nextgenaischool.in):** File hosting product for uploading, organizing, and sharing files through clean public links, with private-by-default uploads and moderation-aware access.
+- **[Tree](https://tree.nextgenaischool.in/):** Identity and profile platform built around interactive tree-based profile surfaces.
+- **[ArtGridX](https://artgridx.nextgenaischool.in):** Scrapbook-style portfolio for a drawing artist with a masonry gallery, animated lightbox, contact form, and mobile admin dashboard.
+- **[Humanify](https://humanify.nextgenaischool.in):** Writing workspace for turning rough drafts into clearer, more personal prose through rewrite passes, tone guidance, downloads, and an authenticated API.
+- **[Hunar](https://github.com/Lakshay-13/hunar):** Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.
 
 ## Tools and technologies
 
