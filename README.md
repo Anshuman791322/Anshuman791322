@@ -18,7 +18,7 @@
 
 ## About
 
-I build AI systems, desktop tools, and data-driven applications. My current interests include multi-agent workflows, local-first software, computer vision, and full-stack product development.
+I build AI systems, desktop tools, and data-driven applications. My current interests include local AI agents, local-first software, and full-stack product development.
 
 ## Personal projects
 
