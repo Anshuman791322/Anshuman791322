@@ -1,5 +1,38 @@
 [
   {
+    "name": "Hunar",
+    "url": "https://github.com/Lakshay-13/hunar",
+    "description": "Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.",
+    "stack": [
+      "JavaScript",
+      "CSS",
+      "React 19",
+      "React Router",
+      "Bootstrap 5",
+      "Anime.js",
+      "Node.js",
+      "Express 5",
+      "PostgreSQL",
+      "Google OAuth",
+      "JWT",
+      "Razorpay",
+      "Shiprocket",
+      "Jest",
+      "React Testing Library"
+    ],
+    "id": "hunar",
+    "featured": false,
+    "summary": "Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.",
+    "displayName": "Hunar",
+    "displayStack": [
+      "JavaScript",
+      "CSS",
+      "React 19",
+      "React Router",
+      "Bootstrap 5"
+    ]
+  },
+  {
     "name": "AQG Studio",
     "url": "https://github.com/Anshuman791322/aqg-studio",
     "description": "A full-stack assessment platform that turns PDF, DOCX, PPTX, and text documents into grounded quizzes. A Next.js and TypeScript frontend pairs with a FastAPI backend and LangGraph multi-agent pipeline for document parsing, pgvector-backed RAG, quality checks, human review, and exports to Moodle XML, QTI, PDF, DOCX, JSON, and CSV. Model access routes through OpenRouter with NVIDIA NIM fallback.",
@@ -58,31 +91,6 @@
       "Ollama",
       "faster-whisper",
       "SQLite"
-    ]
-  },
-  {
-    "name": "Personal portfolio",
-    "url": "https://anshuman791322.github.io",
-    "description": "A server-first portfolio built with Next.js 15, React 19, TypeScript, and Tailwind CSS v4. Anime.js powers the motion design; a static export runs on GitHub Pages.",
-    "stack": [
-      "Next.js 15",
-      "React 19",
-      "TypeScript",
-      "Tailwind CSS v4",
-      "Anime.js",
-      "Lucide React",
-      "GitHub Pages"
-    ],
-    "id": "portfolio",
-    "featured": true,
-    "summary": "A Next.js portfolio with Anime.js motion design, exported to GitHub Pages.",
-    "displayName": "Personal portfolio",
-    "displayStack": [
-      "Next.js",
-      "React",
-      "TypeScript",
-      "Tailwind CSS",
-      "Anime.js"
     ]
   },
   {
@@ -249,36 +257,28 @@
     ]
   },
   {
-    "name": "Hunar",
-    "url": "https://github.com/Lakshay-13/hunar",
-    "description": "Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.",
+    "name": "Personal portfolio",
+    "url": "https://anshuman791322.github.io",
+    "description": "A server-first portfolio built with Next.js 15, React 19, TypeScript, and Tailwind CSS v4. Anime.js powers the motion design; a static export runs on GitHub Pages.",
     "stack": [
-      "JavaScript",
-      "CSS",
+      "Next.js 15",
       "React 19",
-      "React Router",
-      "Bootstrap 5",
+      "TypeScript",
+      "Tailwind CSS v4",
       "Anime.js",
-      "Node.js",
-      "Express 5",
-      "PostgreSQL",
-      "Google OAuth",
-      "JWT",
-      "Razorpay",
-      "Shiprocket",
-      "Jest",
-      "React Testing Library"
+      "Lucide React",
+      "GitHub Pages"
     ],
-    "id": "hunar",
-    "featured": false,
-    "summary": "Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.",
-    "displayName": "Hunar",
+    "id": "portfolio",
+    "featured": true,
+    "summary": "A Next.js portfolio with Anime.js motion design, exported to GitHub Pages.",
+    "displayName": "Personal portfolio",
     "displayStack": [
-      "JavaScript",
-      "CSS",
-      "React 19",
-      "React Router",
-      "Bootstrap 5"
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Anime.js"
     ]
   }
 ]

@@ -2,6 +2,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const opentype = require('opentype.js');
+const {scenes, styles: sceneStyles} = require('./project-scenes.cjs');
 const root = path.resolve(__dirname, '..');
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'assets/projects.json'), 'utf8'));
 const bytes = fs.readFileSync(path.join(root, 'assets/fonts/Manrope-Medium.ttf'));
@@ -38,7 +39,14 @@ const copy = {
   aqg: 'Documents become grounded quizzes through retrieval, review, and export.',
   jarvis: 'Local models, voice control, memory, and policy-gated desktop actions.',
   stars: 'Gaia DR3 light curves, classified with machine-learning sequence models.',
-  portfolio: 'Next.js, React, and Anime.js, published on GitHub Pages.'
+  portfolio: 'Next.js, React, and Anime.js, published on GitHub Pages.',
+  hunar: 'Handmade gifts, shopping carts, secure payments, and order tracking.',
+  driver: 'A Kotlin and Jetpack Compose driver-monitoring app for Android.',
+  zinging: 'AI agent workflows with database memory, caching, and translation.',
+  host: 'Upload, organize, and share files with private-by-default storage.',
+  tree: 'Interactive tree-based profiles, built with React.',
+  artgridx: 'An artist portfolio with a masonry gallery and animated lightbox.',
+  humanify: 'A Next.js and React application backed by an authenticated API.'
 };
 const themes = {
   light: {title:'#172b46', body:'#345270', line:'#d8e3ef'},
@@ -61,7 +69,8 @@ const style = `<style>
 @keyframes site{0%,100%{transform:translateX(0)}50%{transform:translateX(-6px)}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>`;
-function illustration(id, l) {
+function illustration(id, l, theme) {
+  if (scenes[id]) return scenes[id](l, theme);
   if (id === 'aqg') return `<g stroke-linejoin="round">
     <path d="M18 33H84L96 45V125H18Z" fill="#eef5ff" stroke="#a5bcd6"/>
     <g class="page"><path d="M30 22H95L108 36V115H30Z" fill="#f8fbff" stroke="#7194ba"/>
@@ -109,12 +118,13 @@ function row(project, mobile, dark, still) {
   const lines = l.wrap(copy[project.id],bodySize,max);
   lines.forEach(line => { content += l.text(line,x,y,bodySize,theme.body); y += mobile ? 31 : 29; });
   const artworkY = mobile ? y-22 : 0;
-  const artwork = illustration(project.id,l);
+  const artwork = illustration(project.id,l,theme);
   content += `<g data-motion="${project.id}" transform="${mobile?`translate(58 ${artworkY})`:'translate(0 1)'}">${artwork}</g>`;
   const h = mobile ? artworkY+151 : Math.max(156,y+13);
   content += `<path d="M${pad} ${h-1}H${w-pad}" stroke="${theme.line}"/>`;
   for (const b of l.bounds) if(b.x+b.width>w-pad+.5) throw new Error(`Text exceeds ${project.id}: ${b.text}`);
   let css = style;
+  if (scenes[project.id]) css = css.replace('<style>', `<style>${sceneStyles}`);
   if(still) css = css.replace('</style>','*{animation:none!important}</style>');
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-labelledby="title desc">
 <title id="title">${escape(project.name)}. ${escape(copy[project.id])}</title>
@@ -124,11 +134,11 @@ ${css}<defs>${[...l.definitions.values()].join('')}</defs>${content}</svg>`;
 }
 const out = path.join(root,'assets/projects'); fs.mkdirSync(out,{recursive:true});
 const manifest = [];
-for (const p of catalog.filter(p=>p.featured)) for (const mobile of [false,true]) for (const dark of [false,true]) for (const still of [false,true]) {
+for (const p of catalog) for (const mobile of [false,true]) for (const dark of [false,true]) for (const still of [false,true]) {
   const result = row(p,mobile,dark,still);
   const file = `${p.id}${mobile?'-mobile':''}${dark?'-dark':''}${still?'-still':''}.svg`;
   fs.writeFileSync(path.join(out,file),result.svg);
   manifest.push({id:p.id,file,mobile,dark,still,width:result.width,height:result.height,bodySize:result.bodySize,bodyLines:result.lines,bytes:Buffer.byteLength(result.svg)});
 }
 fs.writeFileSync(path.join(out,'manifest.json'),JSON.stringify(manifest,null,2)+'\n');
-console.log('Rendered four compact motion previews, with light/dark, mobile, and still alternatives.');
+console.log(`Rendered ${catalog.length} compact motion previews, with light/dark, mobile, and still alternatives.`);

@@ -27,6 +27,19 @@ I'm currently interested in **local AI agents**, **local-first software**, and t
 <!-- PROJECTS:START -->
 ## Selected work
 
+<a href="https://github.com/Lakshay-13/hunar">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/hunar-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/hunar-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/hunar-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/hunar-still.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/hunar-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/hunar-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/hunar-mobile.svg">
+    <img src="assets/projects/hunar.svg" alt="Hunar. Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard." width="100%">
+  </picture>
+</a>
+
 <a href="https://github.com/Anshuman791322/aqg-studio">
   <picture>
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/aqg-mobile-dark-still.svg">
@@ -66,6 +79,84 @@ I'm currently interested in **local AI agents**, **local-first software**, and t
   </picture>
 </a>
 
+<a href="https://github.com/Anshuman791322/smart-driver-monitoring-dashboard-downloads">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/driver-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/driver-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/driver-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/driver-still.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/driver-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/driver-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/driver-mobile.svg">
+    <img src="assets/projects/driver.svg" alt="Smart Driver Monitoring Dashboard. A Kotlin and Jetpack Compose driver-monitoring app published as downloadable Android APKs." width="100%">
+  </picture>
+</a>
+
+<a href="https://lakshay-13.github.io/zinging/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/zinging-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/zinging-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/zinging-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/zinging-still.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/zinging-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/zinging-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/zinging-mobile.svg">
+    <img src="assets/projects/zinging.svg" alt="Zinging. AI assistant with NVIDIA NIM-powered agent workflows, database-backed memory, caching, and translation, prepared for Railway deployment." width="100%">
+  </picture>
+</a>
+
+<a href="https://host.nextgenaischool.in">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/host-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/host-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/host-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/host-still.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/host-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/host-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/host-mobile.svg">
+    <img src="assets/projects/host.svg" alt="Host. React and Vite file-hosting product for uploading, organizing, and sharing files through clean public links, with private-by-default uploads and moderation-aware access." width="100%">
+  </picture>
+</a>
+
+<a href="https://tree.nextgenaischool.in/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/tree-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/tree-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/tree-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/tree-still.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/tree-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/tree-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/tree-mobile.svg">
+    <img src="assets/projects/tree.svg" alt="Tree. React identity and profile platform built around interactive tree-based profile surfaces." width="100%">
+  </picture>
+</a>
+
+<a href="https://artgridx.nextgenaischool.in">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/artgridx-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/artgridx-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/artgridx-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/artgridx-still.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/artgridx-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/artgridx-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/artgridx-mobile.svg">
+    <img src="assets/projects/artgridx.svg" alt="ArtGridX. Next.js and React scrapbook-style portfolio for a drawing artist, with a masonry gallery, animated lightbox, contact form, and mobile admin dashboard." width="100%">
+  </picture>
+</a>
+
+<a href="https://humanify.nextgenaischool.in">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/humanify-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/humanify-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/humanify-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/humanify-still.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/humanify-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/humanify-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/humanify-mobile.svg">
+    <img src="assets/projects/humanify.svg" alt="Humanify. A JavaScript web application built with Next.js and React, backed by an authenticated API." width="100%">
+  </picture>
+</a>
+
 <a href="https://anshuman791322.github.io">
   <picture>
     <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/portfolio-mobile-dark-still.svg">
@@ -80,20 +171,13 @@ I'm currently interested in **local AI agents**, **local-first software**, and t
 </a>
 
 <details>
-<summary>More projects (7)</summary>
-
-- [Smart Driver Monitoring Dashboard](https://github.com/Anshuman791322/smart-driver-monitoring-dashboard-downloads) — A Kotlin and Jetpack Compose driver-monitoring app published as downloadable Android APKs.
-- [Zinging](https://lakshay-13.github.io/zinging/) — AI assistant with NVIDIA NIM-powered agent workflows, database-backed memory, caching, and translation, prepared for Railway deployment.
-- [Host](https://host.nextgenaischool.in) — React and Vite file-hosting product for uploading, organizing, and sharing files through clean public links, with private-by-default uploads and moderation-aware access.
-- [Tree](https://tree.nextgenaischool.in/) — React identity and profile platform built around interactive tree-based profile surfaces.
-- [ArtGridX](https://artgridx.nextgenaischool.in) — Next.js and React scrapbook-style portfolio for a drawing artist, with a masonry gallery, animated lightbox, contact form, and mobile admin dashboard.
-- [Humanify](https://humanify.nextgenaischool.in) — A JavaScript web application built with Next.js and React, backed by an authenticated API.
-- [Hunar](https://github.com/Lakshay-13/hunar) — Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.
-
-</details>
-
-<details>
 <summary>Full descriptions and technology stacks</summary>
+
+### [Hunar](https://github.com/Lakshay-13/hunar)
+
+Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.
+
+`JavaScript` `CSS` `React 19` `React Router` `Bootstrap 5` `Anime.js` `Node.js` `Express 5` `PostgreSQL` `Google OAuth` `JWT` `Razorpay` `Shiprocket` `Jest` `React Testing Library`
 
 ### [AQG Studio](https://github.com/Anshuman791322/aqg-studio)
 
@@ -106,12 +190,6 @@ A full-stack assessment platform that turns PDF, DOCX, PPTX, and text documents 
 A Windows-first desktop assistant built with PySide6. It combines local Ollama reasoning, faster-whisper transcription, SQLite memory, wake-word voice control, policy-gated actions, and a scoped Claude Code handoff. Windows builds use PyInstaller and Inno Setup.
 
 `Python` `PySide6` `Ollama` `faster-whisper` `SQLite` `Claude Code` `PyInstaller` `Inno Setup`
-
-### [Personal portfolio](https://anshuman791322.github.io)
-
-A server-first portfolio built with Next.js 15, React 19, TypeScript, and Tailwind CSS v4. Anime.js powers the motion design; a static export runs on GitHub Pages.
-
-`Next.js 15` `React 19` `TypeScript` `Tailwind CSS v4` `Anime.js` `Lucide React` `GitHub Pages`
 
 ### [Classifying Periodic Variable Stars](https://github.com/Anshuman791322/periodically-variable-stars)
 
@@ -155,11 +233,11 @@ A JavaScript web application built with Next.js and React, backed by an authenti
 
 `JavaScript` `Next.js` `React`
 
-### [Hunar](https://github.com/Lakshay-13/hunar)
+### [Personal portfolio](https://anshuman791322.github.io)
 
-Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.
+A server-first portfolio built with Next.js 15, React 19, TypeScript, and Tailwind CSS v4. Anime.js powers the motion design; a static export runs on GitHub Pages.
 
-`JavaScript` `CSS` `React 19` `React Router` `Bootstrap 5` `Anime.js` `Node.js` `Express 5` `PostgreSQL` `Google OAuth` `JWT` `Razorpay` `Shiprocket` `Jest` `React Testing Library`
+`Next.js 15` `React 19` `TypeScript` `Tailwind CSS v4` `Anime.js` `Lucide React` `GitHub Pages`
 
 </details>
 <!-- PROJECTS:END -->

@@ -16,9 +16,7 @@ function picture(project) {
     `    <img src="${base}.svg" alt="${encode(project.name+'. '+project.summary)}" width="100%">\n  </picture>\n</a>`;
 }
 function notes(p) { return `### [${p.name}](${p.url})\n\n${p.description}\n\n${p.stack.map(t=>'`'+t+'`').join(' ')}`; }
-const featured=['aqg','jarvis','stars','portfolio'].map(id=>projects.find(p=>p.id===id));
-const more=projects.filter(p=>!p.featured);
-const section=`<!-- PROJECTS:START -->\n## Selected work\n\n${featured.map(picture).join('\n\n')}\n\n<details>\n<summary>More projects (${more.length})</summary>\n\n${more.map(p=>`- [${p.name}](${p.url}) — ${p.summary}`).join('\n')}\n\n</details>\n\n<details>\n<summary>Full descriptions and technology stacks</summary>\n\n${projects.map(notes).join('\n\n')}\n\n</details>\n<!-- PROJECTS:END -->\n`;
+const section=`<!-- PROJECTS:START -->\n## Selected work\n\n${projects.map(picture).join('\n\n')}\n\n<details>\n<summary>Full descriptions and technology stacks</summary>\n\n${projects.map(notes).join('\n\n')}\n\n</details>\n<!-- PROJECTS:END -->\n`;
 const readmePath=path.join(root,'README.md');
 const original=fs.readFileSync(readmePath,'utf8').replace(/\r\n/g,'\n');
 const pattern=/<!-- PROJECTS:START -->[\s\S]*?<!-- PROJECTS:END -->\n/;
