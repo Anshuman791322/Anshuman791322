@@ -2,7 +2,8 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const opentype = require('opentype.js');
-const {scenes, styles: sceneStyles} = require('./project-scenes.cjs');
+const crypto = require('node:crypto');
+const {scenes, styles: sceneStyles, descriptions: sceneDescriptions} = require('./project-scenes.cjs');
 const root = path.resolve(__dirname, '..');
 const catalog = JSON.parse(fs.readFileSync(path.join(root, 'assets/projects.json'), 'utf8'));
 const bytes = fs.readFileSync(path.join(root, 'assets/fonts/Manrope-Medium.ttf'));
@@ -124,11 +125,11 @@ function row(project, mobile, dark, still) {
   content += `<path d="M${pad} ${h-1}H${w-pad}" stroke="${theme.line}"/>`;
   for (const b of l.bounds) if(b.x+b.width>w-pad+.5) throw new Error(`Text exceeds ${project.id}: ${b.text}`);
   let css = style;
-  if (scenes[project.id]) css = css.replace('<style>', `<style>${sceneStyles}`);
+  if (scenes[project.id]) css = css.replace('<style>', `<style>${sceneStyles(project.id)}`);
   if(still) css = css.replace('</style>','*{animation:none!important}</style>');
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-labelledby="title desc">
 <title id="title">${escape(project.name)}. ${escape(copy[project.id])}</title>
-<desc id="desc">${escape(project.description)} ${project.id==='stars'?'Original RR Lyrae photometry plot from the project notebook.':project.id==='portfolio'?'Screenshot of the published portfolio with a gentle horizontal pan.':'Illustrated workflow preview.'}</desc>
+<desc id="desc">${escape(project.description)} ${escape(sceneDescriptions[project.id] || (project.id==='stars'?'Original RR Lyrae photometry plot from the project notebook.':project.id==='portfolio'?'Screenshot of the published portfolio with a gentle horizontal pan.':'Illustrated workflow preview.'))}</desc>
 ${css}<defs>${[...l.definitions.values()].join('')}</defs>${content}</svg>`;
   return {svg,width:w,height:h,bodySize,headingSize,lines:lines.length};
 }
@@ -136,9 +137,17 @@ const out = path.join(root,'assets/projects'); fs.mkdirSync(out,{recursive:true}
 const manifest = [];
 for (const p of catalog) for (const mobile of [false,true]) for (const dark of [false,true]) for (const still of [false,true]) {
   const result = row(p,mobile,dark,still);
-  const file = `${p.id}${mobile?'-mobile':''}${dark?'-dark':''}${still?'-still':''}.svg`;
+  const rich = ['hunar','zinging','artgridx','humanify'].includes(p.id);
+  const revision = rich ? `-rich-${crypto.createHash('sha256').update(result.svg).digest('hex').slice(0,8)}` : '';
+  const file = `${p.id}${mobile?'-mobile':''}${dark?'-dark':''}${still?'-still':''}${revision}.svg`;
   fs.writeFileSync(path.join(out,file),result.svg);
   manifest.push({id:p.id,file,mobile,dark,still,width:result.width,height:result.height,bodySize:result.bodySize,bodyLines:result.lines,bytes:Buffer.byteLength(result.svg)});
 }
 fs.writeFileSync(path.join(out,'manifest.json'),JSON.stringify(manifest,null,2)+'\n');
+const currentFiles = new Set(manifest.map(record=>record.file));
+for (const filename of fs.readdirSync(out)) {
+  if (/^(hunar|zinging|artgridx|humanify)(-mobile)?(-dark)?(-still)?-rich-[a-f0-9]{8}\.svg$/.test(filename) && !currentFiles.has(filename)) {
+    fs.unlinkSync(path.join(out,filename));
+  }
+}
 console.log(`Rendered ${catalog.length} compact motion previews, with light/dark, mobile, and still alternatives.`);

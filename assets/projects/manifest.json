@@ -1,7 +1,7 @@
 [
   {
     "id": "hunar",
-    "file": "hunar.svg",
+    "file": "hunar-rich-207b3bf6.svg",
     "mobile": false,
     "dark": false,
     "still": false,
@@ -9,11 +9,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13840
+    "bytes": 168542
   },
   {
     "id": "hunar",
-    "file": "hunar-still.svg",
+    "file": "hunar-still-rich-43f09c9e.svg",
     "mobile": false,
     "dark": false,
     "still": true,
@@ -21,11 +21,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13867
+    "bytes": 168569
   },
   {
     "id": "hunar",
-    "file": "hunar-dark.svg",
+    "file": "hunar-dark-rich-d4d445f5.svg",
     "mobile": false,
     "dark": true,
     "still": false,
@@ -33,11 +33,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13840
+    "bytes": 168542
   },
   {
     "id": "hunar",
-    "file": "hunar-dark-still.svg",
+    "file": "hunar-dark-still-rich-fc231a33.svg",
     "mobile": false,
     "dark": true,
     "still": true,
@@ -45,11 +45,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13867
+    "bytes": 168569
   },
   {
     "id": "hunar",
-    "file": "hunar-mobile.svg",
+    "file": "hunar-mobile-rich-61f52ae4.svg",
     "mobile": true,
     "dark": false,
     "still": false,
@@ -57,11 +57,11 @@
     "height": 303,
     "bodySize": 24,
     "bodyLines": 3,
-    "bytes": 13866
+    "bytes": 168568
   },
   {
     "id": "hunar",
-    "file": "hunar-mobile-still.svg",
+    "file": "hunar-mobile-still-rich-df26f991.svg",
     "mobile": true,
     "dark": false,
     "still": true,
@@ -69,11 +69,11 @@
     "height": 303,
     "bodySize": 24,
     "bodyLines": 3,
-    "bytes": 13893
+    "bytes": 168595
   },
   {
     "id": "hunar",
-    "file": "hunar-mobile-dark.svg",
+    "file": "hunar-mobile-dark-rich-ec4cb27d.svg",
     "mobile": true,
     "dark": true,
     "still": false,
@@ -81,11 +81,11 @@
     "height": 303,
     "bodySize": 24,
     "bodyLines": 3,
-    "bytes": 13866
+    "bytes": 168568
   },
   {
     "id": "hunar",
-    "file": "hunar-mobile-dark-still.svg",
+    "file": "hunar-mobile-dark-still-rich-b095c4df.svg",
     "mobile": true,
     "dark": true,
     "still": true,
@@ -93,7 +93,7 @@
     "height": 303,
     "bodySize": 24,
     "bodyLines": 3,
-    "bytes": 13893
+    "bytes": 168595
   },
   {
     "id": "aqg",
@@ -481,7 +481,7 @@
   },
   {
     "id": "zinging",
-    "file": "zinging.svg",
+    "file": "zinging-rich-38726567.svg",
     "mobile": false,
     "dark": false,
     "still": false,
@@ -489,11 +489,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13555
+    "bytes": 56892
   },
   {
     "id": "zinging",
-    "file": "zinging-still.svg",
+    "file": "zinging-still-rich-4332b179.svg",
     "mobile": false,
     "dark": false,
     "still": true,
@@ -501,11 +501,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13582
+    "bytes": 56919
   },
   {
     "id": "zinging",
-    "file": "zinging-dark.svg",
+    "file": "zinging-dark-rich-c99b0c42.svg",
     "mobile": false,
     "dark": true,
     "still": false,
@@ -513,11 +513,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13555
+    "bytes": 56892
   },
   {
     "id": "zinging",
-    "file": "zinging-dark-still.svg",
+    "file": "zinging-dark-still-rich-8aa204e6.svg",
     "mobile": false,
     "dark": true,
     "still": true,
@@ -525,11 +525,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13582
+    "bytes": 56919
   },
   {
     "id": "zinging",
-    "file": "zinging-mobile.svg",
+    "file": "zinging-mobile-rich-6af2019c.svg",
     "mobile": true,
     "dark": false,
     "still": false,
@@ -537,11 +537,11 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13546
+    "bytes": 56883
   },
   {
     "id": "zinging",
-    "file": "zinging-mobile-still.svg",
+    "file": "zinging-mobile-still-rich-fe678a7a.svg",
     "mobile": true,
     "dark": false,
     "still": true,
@@ -549,11 +549,11 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13573
+    "bytes": 56910
   },
   {
     "id": "zinging",
-    "file": "zinging-mobile-dark.svg",
+    "file": "zinging-mobile-dark-rich-aea5924a.svg",
     "mobile": true,
     "dark": true,
     "still": false,
@@ -561,11 +561,11 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13546
+    "bytes": 56883
   },
   {
     "id": "zinging",
-    "file": "zinging-mobile-dark-still.svg",
+    "file": "zinging-mobile-dark-still-rich-1b8ce470.svg",
     "mobile": true,
     "dark": true,
     "still": true,
@@ -573,7 +573,7 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13573
+    "bytes": 56910
   },
   {
     "id": "host",
@@ -769,7 +769,7 @@
   },
   {
     "id": "artgridx",
-    "file": "artgridx.svg",
+    "file": "artgridx-rich-e5ecb9b7.svg",
     "mobile": false,
     "dark": false,
     "still": false,
@@ -777,11 +777,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13673
+    "bytes": 178720
   },
   {
     "id": "artgridx",
-    "file": "artgridx-still.svg",
+    "file": "artgridx-still-rich-3c009d43.svg",
     "mobile": false,
     "dark": false,
     "still": true,
@@ -789,11 +789,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13700
+    "bytes": 178747
   },
   {
     "id": "artgridx",
-    "file": "artgridx-dark.svg",
+    "file": "artgridx-dark-rich-1afdce71.svg",
     "mobile": false,
     "dark": true,
     "still": false,
@@ -801,11 +801,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13673
+    "bytes": 178720
   },
   {
     "id": "artgridx",
-    "file": "artgridx-dark-still.svg",
+    "file": "artgridx-dark-still-rich-14eed647.svg",
     "mobile": false,
     "dark": true,
     "still": true,
@@ -813,11 +813,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13700
+    "bytes": 178747
   },
   {
     "id": "artgridx",
-    "file": "artgridx-mobile.svg",
+    "file": "artgridx-mobile-rich-c43dc5ae.svg",
     "mobile": true,
     "dark": false,
     "still": false,
@@ -825,11 +825,11 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13663
+    "bytes": 178710
   },
   {
     "id": "artgridx",
-    "file": "artgridx-mobile-still.svg",
+    "file": "artgridx-mobile-still-rich-3695e0e2.svg",
     "mobile": true,
     "dark": false,
     "still": true,
@@ -837,11 +837,11 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13690
+    "bytes": 178737
   },
   {
     "id": "artgridx",
-    "file": "artgridx-mobile-dark.svg",
+    "file": "artgridx-mobile-dark-rich-58ae3de4.svg",
     "mobile": true,
     "dark": true,
     "still": false,
@@ -849,11 +849,11 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13663
+    "bytes": 178710
   },
   {
     "id": "artgridx",
-    "file": "artgridx-mobile-dark-still.svg",
+    "file": "artgridx-mobile-dark-still-rich-cb868747.svg",
     "mobile": true,
     "dark": true,
     "still": true,
@@ -861,11 +861,11 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 13690
+    "bytes": 178737
   },
   {
     "id": "humanify",
-    "file": "humanify.svg",
+    "file": "humanify-rich-752f6ac7.svg",
     "mobile": false,
     "dark": false,
     "still": false,
@@ -873,11 +873,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 14407
+    "bytes": 45300
   },
   {
     "id": "humanify",
-    "file": "humanify-still.svg",
+    "file": "humanify-still-rich-c77a1340.svg",
     "mobile": false,
     "dark": false,
     "still": true,
@@ -885,11 +885,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 14434
+    "bytes": 45327
   },
   {
     "id": "humanify",
-    "file": "humanify-dark.svg",
+    "file": "humanify-dark-rich-21add4d5.svg",
     "mobile": false,
     "dark": true,
     "still": false,
@@ -897,11 +897,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 14407
+    "bytes": 45300
   },
   {
     "id": "humanify",
-    "file": "humanify-dark-still.svg",
+    "file": "humanify-dark-still-rich-3b8dd0d5.svg",
     "mobile": false,
     "dark": true,
     "still": true,
@@ -909,11 +909,11 @@
     "height": 156.4,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 14434
+    "bytes": 45327
   },
   {
     "id": "humanify",
-    "file": "humanify-mobile.svg",
+    "file": "humanify-mobile-rich-c7a1b37b.svg",
     "mobile": true,
     "dark": false,
     "still": false,
@@ -921,11 +921,11 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 14396
+    "bytes": 45289
   },
   {
     "id": "humanify",
-    "file": "humanify-mobile-still.svg",
+    "file": "humanify-mobile-still-rich-347491bd.svg",
     "mobile": true,
     "dark": false,
     "still": true,
@@ -933,11 +933,11 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 14423
+    "bytes": 45316
   },
   {
     "id": "humanify",
-    "file": "humanify-mobile-dark.svg",
+    "file": "humanify-mobile-dark-rich-6baaf516.svg",
     "mobile": true,
     "dark": true,
     "still": false,
@@ -945,11 +945,11 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 14396
+    "bytes": 45289
   },
   {
     "id": "humanify",
-    "file": "humanify-mobile-dark-still.svg",
+    "file": "humanify-mobile-dark-still-rich-5ccf0fc2.svg",
     "mobile": true,
     "dark": true,
     "still": true,
@@ -957,7 +957,7 @@
     "height": 272,
     "bodySize": 24,
     "bodyLines": 2,
-    "bytes": 14423
+    "bytes": 45316
   },
   {
     "id": "portfolio",

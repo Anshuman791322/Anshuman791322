@@ -29,14 +29,14 @@ I'm currently interested in **local AI agents**, **local-first software**, and t
 
 <a href="https://github.com/Lakshay-13/hunar">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/hunar-mobile-dark-still.svg">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/hunar-dark-still.svg">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/hunar-mobile-still.svg">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/hunar-still.svg">
-    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/hunar-mobile-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/hunar-dark.svg">
-    <source media="(max-width: 540px)" srcset="assets/projects/hunar-mobile.svg">
-    <img src="assets/projects/hunar.svg" alt="Hunar. Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard." width="100%">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/hunar-mobile-dark-still-rich-b095c4df.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/hunar-dark-still-rich-fc231a33.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/hunar-mobile-still-rich-df26f991.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/hunar-still-rich-43f09c9e.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/hunar-mobile-dark-rich-ec4cb27d.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/hunar-dark-rich-d4d445f5.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/hunar-mobile-rich-61f52ae4.svg">
+    <img src="assets/projects/hunar-rich-207b3bf6.svg" alt="Hunar. Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard." width="100%">
   </picture>
 </a>
 
@@ -94,14 +94,14 @@ I'm currently interested in **local AI agents**, **local-first software**, and t
 
 <a href="https://lakshay-13.github.io/zinging/">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/zinging-mobile-dark-still.svg">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/zinging-dark-still.svg">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/zinging-mobile-still.svg">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/zinging-still.svg">
-    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/zinging-mobile-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/zinging-dark.svg">
-    <source media="(max-width: 540px)" srcset="assets/projects/zinging-mobile.svg">
-    <img src="assets/projects/zinging.svg" alt="Zinging. AI assistant with NVIDIA NIM-powered agent workflows, database-backed memory, caching, and translation, prepared for Railway deployment." width="100%">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/zinging-mobile-dark-still-rich-1b8ce470.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/zinging-dark-still-rich-8aa204e6.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/zinging-mobile-still-rich-fe678a7a.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/zinging-still-rich-4332b179.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/zinging-mobile-dark-rich-aea5924a.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/zinging-dark-rich-c99b0c42.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/zinging-mobile-rich-6af2019c.svg">
+    <img src="assets/projects/zinging-rich-38726567.svg" alt="Zinging. AI assistant with NVIDIA NIM-powered agent workflows, database-backed memory, caching, and translation, prepared for Railway deployment." width="100%">
   </picture>
 </a>
 
@@ -133,27 +133,27 @@ I'm currently interested in **local AI agents**, **local-first software**, and t
 
 <a href="https://artgridx.nextgenaischool.in">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/artgridx-mobile-dark-still.svg">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/artgridx-dark-still.svg">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/artgridx-mobile-still.svg">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/artgridx-still.svg">
-    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/artgridx-mobile-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/artgridx-dark.svg">
-    <source media="(max-width: 540px)" srcset="assets/projects/artgridx-mobile.svg">
-    <img src="assets/projects/artgridx.svg" alt="ArtGridX. Next.js and React scrapbook-style portfolio for a drawing artist, with a masonry gallery, animated lightbox, contact form, and mobile admin dashboard." width="100%">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/artgridx-mobile-dark-still-rich-cb868747.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/artgridx-dark-still-rich-14eed647.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/artgridx-mobile-still-rich-3695e0e2.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/artgridx-still-rich-3c009d43.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/artgridx-mobile-dark-rich-58ae3de4.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/artgridx-dark-rich-1afdce71.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/artgridx-mobile-rich-c43dc5ae.svg">
+    <img src="assets/projects/artgridx-rich-e5ecb9b7.svg" alt="ArtGridX. Next.js and React scrapbook-style portfolio for a drawing artist, with a masonry gallery, animated lightbox, contact form, and mobile admin dashboard." width="100%">
   </picture>
 </a>
 
 <a href="https://humanify.nextgenaischool.in">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/humanify-mobile-dark-still.svg">
-    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/humanify-dark-still.svg">
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/humanify-mobile-still.svg">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/humanify-still.svg">
-    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/humanify-mobile-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/humanify-dark.svg">
-    <source media="(max-width: 540px)" srcset="assets/projects/humanify-mobile.svg">
-    <img src="assets/projects/humanify.svg" alt="Humanify. A JavaScript web application built with Next.js and React, backed by an authenticated API." width="100%">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/humanify-mobile-dark-still-rich-5ccf0fc2.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/humanify-dark-still-rich-3b8dd0d5.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/humanify-mobile-still-rich-347491bd.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/humanify-still-rich-c77a1340.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/humanify-mobile-dark-rich-6baaf516.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/humanify-dark-rich-21add4d5.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/humanify-mobile-rich-c7a1b37b.svg">
+    <img src="assets/projects/humanify-rich-752f6ac7.svg" alt="Humanify. A JavaScript web application built with Next.js and React, backed by an authenticated API." width="100%">
   </picture>
 </a>
 
