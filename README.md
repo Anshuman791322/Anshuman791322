@@ -20,12 +20,12 @@ I'm currently interested in **local AI agents**, **local-first software**, and t
 
 <br clear="all">
 
-[Selected work](#selected-work) · [My toolkit](#my-toolkit) · [Activity](#activity) · [Connect](#connect)
+[Project](#project) · [My toolkit](#my-toolkit) · [Activity](#activity) · [Connect](#connect)
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 <!-- PROJECTS:START -->
-## Selected work
+## Project
 
 <a href="https://github.com/Lakshay-13/hunar">
   <picture>

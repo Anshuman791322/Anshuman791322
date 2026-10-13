@@ -21,7 +21,7 @@ function picture(project) {
     `    <img src="${resource(false,false,false)}" alt="${encode(project.name+'. '+project.summary)}" width="100%">\n  </picture>\n</a>`;
 }
 function notes(p) { return `### [${p.name}](${p.url})\n\n${p.description}\n\n${p.stack.map(t=>'`'+t+'`').join(' ')}`; }
-const section=`<!-- PROJECTS:START -->\n## Selected work\n\n${projects.map(picture).join('\n\n')}\n\n<details>\n<summary>Full descriptions and technology stacks</summary>\n\n${projects.map(notes).join('\n\n')}\n\n</details>\n<!-- PROJECTS:END -->\n`;
+const section=`<!-- PROJECTS:START -->\n## Project\n\n${projects.map(picture).join('\n\n')}\n\n<details>\n<summary>Full descriptions and technology stacks</summary>\n\n${projects.map(notes).join('\n\n')}\n\n</details>\n<!-- PROJECTS:END -->\n`;
 const readmePath=path.join(root,'README.md');
 const original=fs.readFileSync(readmePath,'utf8').replace(/\r\n/g,'\n');
 const pattern=/<!-- PROJECTS:START -->[\s\S]*?<!-- PROJECTS:END -->\n/;
