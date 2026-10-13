@@ -246,10 +246,10 @@ A server-first portfolio built with Next.js 15, React 19, TypeScript, and Tailwi
 
 <!-- AI-TOOLKIT:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/ai-icons/toolkit-mobile-dark-c6b1c270.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-icons/toolkit-desktop-dark-b660c4f8.svg">
-  <source media="(max-width: 540px)" srcset="assets/ai-icons/toolkit-mobile-light-d6060837.svg">
-  <img src="assets/ai-icons/toolkit-desktop-light-94b17590.svg" alt="AI assistants: Codex, ChatGPT, Claude, Gemini, GLM, and DeepSeek" width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/ai-icons/toolkit-mobile-dark-3c49c935.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-icons/toolkit-desktop-dark-3c49c935.svg">
+  <source media="(max-width: 540px)" srcset="assets/ai-icons/toolkit-mobile-light-1a3c351a.svg">
+  <img src="assets/ai-icons/toolkit-desktop-light-1a3c351a.svg" alt="AI assistants: Codex, Claude, Gemini, GLM, and DeepSeek" width="100%">
 </picture>
 <!-- AI-TOOLKIT:END -->
 
@@ -260,7 +260,7 @@ A server-first portfolio built with Next.js 15, React 19, TypeScript, and Tailwi
 
 | Area | What I use |
 | :--- | :--- |
-| AI assistants | Codex, ChatGPT, Claude, Gemini, GLM, DeepSeek |
+| AI assistants | Codex, Claude, Gemini, GLM, DeepSeek |
 | AI and models | LangGraph, RAG, Ollama, OpenRouter, NVIDIA NIM, PyTorch, TensorFlow |
 | Interfaces and APIs | Next.js, React, TypeScript, Tailwind CSS, FastAPI, PySide6, Kotlin / Compose |
 | Data | PostgreSQL, pgvector, Supabase, SQLite, SQLAlchemy, Pandas, NumPy |

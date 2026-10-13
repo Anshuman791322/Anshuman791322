@@ -7,10 +7,6 @@
       "url": "https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/codex.svg"
     },
     {
-      "file": "openai.svg",
-      "url": "https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/openai.svg"
-    },
-    {
       "file": "claude-color.svg",
       "url": "https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/claude-color.svg"
     },

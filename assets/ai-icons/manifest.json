@@ -2,29 +2,29 @@
   {
     "mobile": false,
     "dark": false,
-    "file": "toolkit-desktop-light-94b17590.svg",
-    "width": 840,
-    "height": 108
+    "file": "toolkit-desktop-light-1a3c351a.svg",
+    "width": 940,
+    "height": 96
   },
   {
     "mobile": false,
     "dark": true,
-    "file": "toolkit-desktop-dark-b660c4f8.svg",
-    "width": 840,
-    "height": 108
+    "file": "toolkit-desktop-dark-3c49c935.svg",
+    "width": 940,
+    "height": 96
   },
   {
     "mobile": true,
     "dark": false,
-    "file": "toolkit-mobile-light-d6060837.svg",
-    "width": 420,
-    "height": 216
+    "file": "toolkit-mobile-light-1a3c351a.svg",
+    "width": 940,
+    "height": 96
   },
   {
     "mobile": true,
     "dark": true,
-    "file": "toolkit-mobile-dark-c6b1c270.svg",
-    "width": 420,
-    "height": 216
+    "file": "toolkit-mobile-dark-3c49c935.svg",
+    "width": 940,
+    "height": 96
   }
 ]
