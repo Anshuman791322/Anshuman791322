@@ -24,34 +24,101 @@ I'm currently interested in **local AI agents**, **local-first software**, and t
 
 <img src="assets/divider.svg" alt="" width="100%">
 
+<!-- PROJECTS:START -->
 ## Selected work
 
-### [AQG Studio](https://github.com/Anshuman791322/aqg-studio)
+<a href="https://github.com/Anshuman791322/aqg-studio">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/projects/aqg-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/aqg-still.svg">
+    <source media="(max-width: 900px)" srcset="assets/projects/aqg-mobile.svg">
+    <img src="assets/projects/aqg.svg" alt="AQG Studio. Documents in, grounded quizzes out. A full-stack assessment platform with a LangGraph pipeline, retrieval, quality checks, human review, and exports to learning platforms. Python, FastAPI, LangGraph, Next.js, pgvector." width="100%">
+  </picture>
+</a>
 
-Documents in, grounded quizzes out. A full-stack assessment platform with a LangGraph pipeline, retrieval, quality checks, human review, and exports to learning platforms.
+<a href="https://github.com/Anshuman791322/Ai-agent">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/projects/jarvis-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/jarvis-still.svg">
+    <source media="(max-width: 900px)" srcset="assets/projects/jarvis-mobile.svg">
+    <img src="assets/projects/jarvis.svg" alt="JARVIS Windows Local. A Windows desktop assistant with local Ollama reasoning, voice control, transcription, SQLite memory, and policy-gated actions. Python, PySide6, Ollama, faster-whisper, SQLite." width="100%">
+  </picture>
+</a>
 
-`Python` `FastAPI` `LangGraph` `Next.js` `TypeScript` `PostgreSQL / pgvector`
+<a href="https://github.com/Anshuman791322/periodically-variable-stars">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/projects/stars-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/stars-still.svg">
+    <source media="(max-width: 900px)" srcset="assets/projects/stars-mobile.svg">
+    <img src="assets/projects/stars.svg" alt="Classifying Periodic Variable Stars. Classifying RR Lyrae, Cepheids, long-period variables, and eclipsing binaries using Gaia DR3 photometry and sequence models. Python, Gaia DR3, scikit-learn, TensorFlow." width="100%">
+  </picture>
+</a>
 
-### [JARVIS Windows Local](https://github.com/Anshuman791322/Ai-agent)
-
-A Windows desktop assistant with local Ollama reasoning, voice control, transcription, SQLite memory, and policy-gated actions.
-
-`Python` `PySide6` `Ollama` `faster-whisper` `SQLite`
-
-### [Classifying Periodic Variable Stars](https://github.com/Anshuman791322/periodically-variable-stars)
-
-Classifying RR Lyrae, Cepheids, long-period variables, and eclipsing binaries using Gaia DR3 photometry and sequence models.
-
-`Python` `Pandas` `scikit-learn` `TensorFlow / Keras`
-
-### [Personal portfolio](https://anshuman791322.github.io)
-
-A Next.js portfolio with Anime.js motion design, exported to GitHub Pages.
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Anime.js`
+<a href="https://anshuman791322.github.io">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/projects/portfolio-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/portfolio-still.svg">
+    <source media="(max-width: 900px)" srcset="assets/projects/portfolio-mobile.svg">
+    <img src="assets/projects/portfolio.svg" alt="Personal portfolio. A Next.js portfolio with Anime.js motion design, exported to GitHub Pages. Next.js, React, TypeScript, Tailwind CSS, Anime.js." width="100%">
+  </picture>
+</a>
 
 <details>
-<summary><strong>Explore all 11 projects and their full stacks</strong></summary>
+<summary><strong>More projects (7)</strong></summary>
+
+<a href="https://github.com/Anshuman791322/smart-driver-monitoring-dashboard-downloads">
+  <picture>
+    <source media="(max-width: 900px)" srcset="assets/projects/driver-mobile.svg">
+    <img src="assets/projects/driver.svg" alt="Smart Driver Monitoring Dashboard. A Kotlin and Jetpack Compose driver-monitoring app published as downloadable Android APKs. Kotlin, Android, Jetpack Compose, AndroidX Navigation Compose, Preferences DataStore." width="100%">
+  </picture>
+</a>
+
+<a href="https://lakshay-13.github.io/zinging/">
+  <picture>
+    <source media="(max-width: 900px)" srcset="assets/projects/zinging-mobile.svg">
+    <img src="assets/projects/zinging.svg" alt="Zinging. AI assistant with NVIDIA NIM-powered agent workflows, database-backed memory, caching, and translation, prepared for Railway deployment. Python, NVIDIA NIM, Featherless, SQLAlchemy, PostgreSQL." width="100%">
+  </picture>
+</a>
+
+<a href="https://host.nextgenaischool.in">
+  <picture>
+    <source media="(max-width: 900px)" srcset="assets/projects/host-mobile.svg">
+    <img src="assets/projects/host.svg" alt="Host. React and Vite file-hosting product for uploading, organizing, and sharing files through clean public links, with private-by-default uploads and moderation-aware access. JavaScript, React, Vite, Axios, React Router." width="100%">
+  </picture>
+</a>
+
+<a href="https://tree.nextgenaischool.in/">
+  <picture>
+    <source media="(max-width: 900px)" srcset="assets/projects/tree-mobile.svg">
+    <img src="assets/projects/tree.svg" alt="Tree. React identity and profile platform built around interactive tree-based profile surfaces. JavaScript, React." width="100%">
+  </picture>
+</a>
+
+<a href="https://artgridx.nextgenaischool.in">
+  <picture>
+    <source media="(max-width: 900px)" srcset="assets/projects/artgridx-mobile.svg">
+    <img src="assets/projects/artgridx.svg" alt="ArtGridX. Next.js and React scrapbook-style portfolio for a drawing artist, with a masonry gallery, animated lightbox, contact form, and mobile admin dashboard. JavaScript, Next.js, React, Lucide React, Razorpay." width="100%">
+  </picture>
+</a>
+
+<a href="https://humanify.nextgenaischool.in">
+  <picture>
+    <source media="(max-width: 900px)" srcset="assets/projects/humanify-mobile.svg">
+    <img src="assets/projects/humanify.svg" alt="Humanify. A JavaScript web application built with Next.js and React, backed by an authenticated API. JavaScript, Next.js, React." width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/Lakshay-13/hunar">
+  <picture>
+    <source media="(max-width: 900px)" srcset="assets/projects/hunar-mobile.svg">
+    <img src="assets/projects/hunar.svg" alt="Hunar. Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard. JavaScript, CSS, React 19, React Router, Bootstrap 5." width="100%">
+  </picture>
+</a>
+
+</details>
+
+<details>
+<summary><strong>Implementation notes and full stacks for all 11 projects</strong></summary>
 
 ### [AQG Studio](https://github.com/Anshuman791322/aqg-studio)
 
@@ -120,6 +187,7 @@ Full-stack shopping experience for handmade gifts from independent family artisa
 `JavaScript` `CSS` `React 19` `React Router` `Bootstrap 5` `Anime.js` `Node.js` `Express 5` `PostgreSQL` `Google OAuth` `JWT` `Razorpay` `Shiprocket` `Jest` `React Testing Library`
 
 </details>
+<!-- PROJECTS:END -->
 
 ## My toolkit
 

@@ -2,9 +2,11 @@
   "name": "anshuman-profile-artwork",
   "private": true,
   "scripts": {
-    "render:banner": "node scripts/render-banner.cjs"
+    "render:banner": "node scripts/render-banner.cjs",
+    "render:projects": "node scripts/render-projects.cjs && node scripts/update-project-section.cjs"
   },
   "devDependencies": {
+    "opentype.js": "2.0.0",
     "sharp": "0.34.5"
   }
 }

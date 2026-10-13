@@ -1,0 +1,284 @@
+[
+  {
+    "name": "AQG Studio",
+    "url": "https://github.com/Anshuman791322/aqg-studio",
+    "description": "A full-stack assessment platform that turns PDF, DOCX, PPTX, and text documents into grounded quizzes. A Next.js and TypeScript frontend pairs with a FastAPI backend and LangGraph multi-agent pipeline for document parsing, pgvector-backed RAG, quality checks, human review, and exports to Moodle XML, QTI, PDF, DOCX, JSON, and CSV. Model access routes through OpenRouter with NVIDIA NIM fallback.",
+    "stack": [
+      "Python",
+      "FastAPI",
+      "Pydantic",
+      "SQLAlchemy",
+      "LangGraph",
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "PostgreSQL",
+      "pgvector",
+      "Supabase",
+      "OpenRouter",
+      "NVIDIA NIM",
+      "FastEmbed",
+      "Vercel",
+      "Render"
+    ],
+    "id": "aqg",
+    "featured": true,
+    "summary": "Documents in, grounded quizzes out. A full-stack assessment platform with a LangGraph pipeline, retrieval, quality checks, human review, and exports to learning platforms.",
+    "displayName": "AQG Studio",
+    "displayStack": [
+      "Python",
+      "FastAPI",
+      "LangGraph",
+      "Next.js",
+      "pgvector"
+    ]
+  },
+  {
+    "name": "JARVIS Windows Local",
+    "url": "https://github.com/Anshuman791322/Ai-agent",
+    "description": "A Windows-first desktop assistant built with PySide6. It combines local Ollama reasoning, faster-whisper transcription, SQLite memory, wake-word voice control, policy-gated actions, and a scoped Claude Code handoff. Windows builds use PyInstaller and Inno Setup.",
+    "stack": [
+      "Python",
+      "PySide6",
+      "Ollama",
+      "faster-whisper",
+      "SQLite",
+      "Claude Code",
+      "PyInstaller",
+      "Inno Setup"
+    ],
+    "id": "jarvis",
+    "featured": true,
+    "summary": "A Windows desktop assistant with local Ollama reasoning, voice control, transcription, SQLite memory, and policy-gated actions.",
+    "displayName": "JARVIS Windows Local",
+    "displayStack": [
+      "Python",
+      "PySide6",
+      "Ollama",
+      "faster-whisper",
+      "SQLite"
+    ]
+  },
+  {
+    "name": "Personal portfolio",
+    "url": "https://anshuman791322.github.io",
+    "description": "A server-first portfolio built with Next.js 15, React 19, TypeScript, and Tailwind CSS v4. Anime.js powers the motion design; a static export runs on GitHub Pages.",
+    "stack": [
+      "Next.js 15",
+      "React 19",
+      "TypeScript",
+      "Tailwind CSS v4",
+      "Anime.js",
+      "Lucide React",
+      "GitHub Pages"
+    ],
+    "id": "portfolio",
+    "featured": true,
+    "summary": "A Next.js portfolio with Anime.js motion design, exported to GitHub Pages.",
+    "displayName": "Personal portfolio",
+    "displayStack": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Anime.js"
+    ]
+  },
+  {
+    "name": "Classifying Periodic Variable Stars",
+    "url": "https://github.com/Anshuman791322/periodically-variable-stars",
+    "description": "A Gaia DR3 photometry project that classifies RR Lyrae, Cepheids, long-period variables, and eclipsing binaries. The notebook uses Pandas and NumPy for data preparation, scikit-learn for preprocessing and evaluation, and TensorFlow/Keras sequence models, with plots from Matplotlib and Seaborn.",
+    "stack": [
+      "Python",
+      "Jupyter Notebook",
+      "Pandas",
+      "NumPy",
+      "scikit-learn",
+      "TensorFlow/Keras",
+      "Matplotlib",
+      "Seaborn",
+      "SciPy"
+    ],
+    "id": "stars",
+    "featured": true,
+    "summary": "Classifying RR Lyrae, Cepheids, long-period variables, and eclipsing binaries using Gaia DR3 photometry and sequence models.",
+    "displayName": "Variable stars",
+    "displayStack": [
+      "Python",
+      "Gaia DR3",
+      "scikit-learn",
+      "TensorFlow"
+    ]
+  },
+  {
+    "name": "Smart Driver Monitoring Dashboard",
+    "url": "https://github.com/Anshuman791322/smart-driver-monitoring-dashboard-downloads",
+    "description": "A Kotlin and Jetpack Compose driver-monitoring app published as downloadable Android APKs.",
+    "stack": [
+      "Kotlin",
+      "Android",
+      "Jetpack Compose",
+      "AndroidX Navigation Compose",
+      "Preferences DataStore",
+      "Kotlin Coroutines",
+      "OkHttp",
+      "Gson"
+    ],
+    "id": "driver",
+    "featured": false,
+    "summary": "A Kotlin and Jetpack Compose driver-monitoring app published as downloadable Android APKs.",
+    "displayName": "Smart Driver Monitoring Dashboard",
+    "displayStack": [
+      "Kotlin",
+      "Android",
+      "Jetpack Compose",
+      "AndroidX Navigation Compose",
+      "Preferences DataStore"
+    ]
+  },
+  {
+    "name": "Zinging",
+    "url": "https://lakshay-13.github.io/zinging/",
+    "description": "AI assistant with NVIDIA NIM-powered agent workflows, database-backed memory, caching, and translation, prepared for Railway deployment.",
+    "stack": [
+      "Python",
+      "NVIDIA NIM",
+      "Featherless",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "SQLite",
+      "HTTPX",
+      "googletrans",
+      "Unidecode",
+      "Railway"
+    ],
+    "id": "zinging",
+    "featured": false,
+    "summary": "AI assistant with NVIDIA NIM-powered agent workflows, database-backed memory, caching, and translation, prepared for Railway deployment.",
+    "displayName": "Zinging",
+    "displayStack": [
+      "Python",
+      "NVIDIA NIM",
+      "Featherless",
+      "SQLAlchemy",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "Host",
+    "url": "https://host.nextgenaischool.in",
+    "description": "React and Vite file-hosting product for uploading, organizing, and sharing files through clean public links, with private-by-default uploads and moderation-aware access.",
+    "stack": [
+      "JavaScript",
+      "React",
+      "Vite",
+      "Axios",
+      "React Router"
+    ],
+    "id": "host",
+    "featured": false,
+    "summary": "React and Vite file-hosting product for uploading, organizing, and sharing files through clean public links, with private-by-default uploads and moderation-aware access.",
+    "displayName": "Host",
+    "displayStack": [
+      "JavaScript",
+      "React",
+      "Vite",
+      "Axios",
+      "React Router"
+    ]
+  },
+  {
+    "name": "Tree",
+    "url": "https://tree.nextgenaischool.in/",
+    "description": "React identity and profile platform built around interactive tree-based profile surfaces.",
+    "stack": [
+      "JavaScript",
+      "React"
+    ],
+    "id": "tree",
+    "featured": false,
+    "summary": "React identity and profile platform built around interactive tree-based profile surfaces.",
+    "displayName": "Tree",
+    "displayStack": [
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "name": "ArtGridX",
+    "url": "https://artgridx.nextgenaischool.in",
+    "description": "Next.js and React scrapbook-style portfolio for a drawing artist, with a masonry gallery, animated lightbox, contact form, and mobile admin dashboard.",
+    "stack": [
+      "JavaScript",
+      "Next.js",
+      "React",
+      "Lucide React",
+      "Razorpay",
+      "PayPal"
+    ],
+    "id": "artgridx",
+    "featured": false,
+    "summary": "Next.js and React scrapbook-style portfolio for a drawing artist, with a masonry gallery, animated lightbox, contact form, and mobile admin dashboard.",
+    "displayName": "ArtGridX",
+    "displayStack": [
+      "JavaScript",
+      "Next.js",
+      "React",
+      "Lucide React",
+      "Razorpay"
+    ]
+  },
+  {
+    "name": "Humanify",
+    "url": "https://humanify.nextgenaischool.in",
+    "description": "A JavaScript web application built with Next.js and React, backed by an authenticated API.",
+    "stack": [
+      "JavaScript",
+      "Next.js",
+      "React"
+    ],
+    "id": "humanify",
+    "featured": false,
+    "summary": "A JavaScript web application built with Next.js and React, backed by an authenticated API.",
+    "displayName": "Humanify",
+    "displayStack": [
+      "JavaScript",
+      "Next.js",
+      "React"
+    ]
+  },
+  {
+    "name": "Hunar",
+    "url": "https://github.com/Lakshay-13/hunar",
+    "description": "Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.",
+    "stack": [
+      "JavaScript",
+      "CSS",
+      "React 19",
+      "React Router",
+      "Bootstrap 5",
+      "Anime.js",
+      "Node.js",
+      "Express 5",
+      "PostgreSQL",
+      "Google OAuth",
+      "JWT",
+      "Razorpay",
+      "Shiprocket",
+      "Jest",
+      "React Testing Library"
+    ],
+    "id": "hunar",
+    "featured": false,
+    "summary": "Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.",
+    "displayName": "Hunar",
+    "displayStack": [
+      "JavaScript",
+      "CSS",
+      "React 19",
+      "React Router",
+      "Bootstrap 5"
+    ]
+  }
+]
