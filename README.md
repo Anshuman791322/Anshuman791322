@@ -29,96 +29,71 @@ I'm currently interested in **local AI agents**, **local-first software**, and t
 
 <a href="https://github.com/Anshuman791322/aqg-studio">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/projects/aqg-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/aqg-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/aqg-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/aqg-mobile-still.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/aqg-still.svg">
-    <source media="(max-width: 900px)" srcset="assets/projects/aqg-mobile.svg">
-    <img src="assets/projects/aqg.svg" alt="AQG Studio. Documents in, grounded quizzes out. A full-stack assessment platform with a LangGraph pipeline, retrieval, quality checks, human review, and exports to learning platforms. Python, FastAPI, LangGraph, Next.js, pgvector." width="100%">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/aqg-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/aqg-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/aqg-mobile.svg">
+    <img src="assets/projects/aqg.svg" alt="AQG Studio. Documents in, grounded quizzes out. A full-stack assessment platform with a LangGraph pipeline, retrieval, quality checks, human review, and exports to learning platforms." width="100%">
   </picture>
 </a>
 
 <a href="https://github.com/Anshuman791322/Ai-agent">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/projects/jarvis-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/jarvis-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/jarvis-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/jarvis-mobile-still.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/jarvis-still.svg">
-    <source media="(max-width: 900px)" srcset="assets/projects/jarvis-mobile.svg">
-    <img src="assets/projects/jarvis.svg" alt="JARVIS Windows Local. A Windows desktop assistant with local Ollama reasoning, voice control, transcription, SQLite memory, and policy-gated actions. Python, PySide6, Ollama, faster-whisper, SQLite." width="100%">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/jarvis-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/jarvis-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/jarvis-mobile.svg">
+    <img src="assets/projects/jarvis.svg" alt="JARVIS Windows Local. A Windows desktop assistant with local Ollama reasoning, voice control, transcription, SQLite memory, and policy-gated actions." width="100%">
   </picture>
 </a>
 
 <a href="https://github.com/Anshuman791322/periodically-variable-stars">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/projects/stars-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/stars-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/stars-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/stars-mobile-still.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/stars-still.svg">
-    <source media="(max-width: 900px)" srcset="assets/projects/stars-mobile.svg">
-    <img src="assets/projects/stars.svg" alt="Classifying Periodic Variable Stars. Classifying RR Lyrae, Cepheids, long-period variables, and eclipsing binaries using Gaia DR3 photometry and sequence models. Python, Gaia DR3, scikit-learn, TensorFlow." width="100%">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/stars-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/stars-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/stars-mobile.svg">
+    <img src="assets/projects/stars.svg" alt="Classifying Periodic Variable Stars. Classifying RR Lyrae, Cepheids, long-period variables, and eclipsing binaries using Gaia DR3 photometry and sequence models." width="100%">
   </picture>
 </a>
 
 <a href="https://anshuman791322.github.io">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 900px)" srcset="assets/projects/portfolio-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/portfolio-mobile-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/projects/portfolio-dark-still.svg">
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 540px)" srcset="assets/projects/portfolio-mobile-still.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/projects/portfolio-still.svg">
-    <source media="(max-width: 900px)" srcset="assets/projects/portfolio-mobile.svg">
-    <img src="assets/projects/portfolio.svg" alt="Personal portfolio. A Next.js portfolio with Anime.js motion design, exported to GitHub Pages. Next.js, React, TypeScript, Tailwind CSS, Anime.js." width="100%">
+    <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/projects/portfolio-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects/portfolio-dark.svg">
+    <source media="(max-width: 540px)" srcset="assets/projects/portfolio-mobile.svg">
+    <img src="assets/projects/portfolio.svg" alt="Personal portfolio. A Next.js portfolio with Anime.js motion design, exported to GitHub Pages." width="100%">
   </picture>
 </a>
 
 <details>
-<summary><strong>More projects (7)</strong></summary>
+<summary>More projects (7)</summary>
 
-<a href="https://github.com/Anshuman791322/smart-driver-monitoring-dashboard-downloads">
-  <picture>
-    <source media="(max-width: 900px)" srcset="assets/projects/driver-mobile.svg">
-    <img src="assets/projects/driver.svg" alt="Smart Driver Monitoring Dashboard. A Kotlin and Jetpack Compose driver-monitoring app published as downloadable Android APKs. Kotlin, Android, Jetpack Compose, AndroidX Navigation Compose, Preferences DataStore." width="100%">
-  </picture>
-</a>
-
-<a href="https://lakshay-13.github.io/zinging/">
-  <picture>
-    <source media="(max-width: 900px)" srcset="assets/projects/zinging-mobile.svg">
-    <img src="assets/projects/zinging.svg" alt="Zinging. AI assistant with NVIDIA NIM-powered agent workflows, database-backed memory, caching, and translation, prepared for Railway deployment. Python, NVIDIA NIM, Featherless, SQLAlchemy, PostgreSQL." width="100%">
-  </picture>
-</a>
-
-<a href="https://host.nextgenaischool.in">
-  <picture>
-    <source media="(max-width: 900px)" srcset="assets/projects/host-mobile.svg">
-    <img src="assets/projects/host.svg" alt="Host. React and Vite file-hosting product for uploading, organizing, and sharing files through clean public links, with private-by-default uploads and moderation-aware access. JavaScript, React, Vite, Axios, React Router." width="100%">
-  </picture>
-</a>
-
-<a href="https://tree.nextgenaischool.in/">
-  <picture>
-    <source media="(max-width: 900px)" srcset="assets/projects/tree-mobile.svg">
-    <img src="assets/projects/tree.svg" alt="Tree. React identity and profile platform built around interactive tree-based profile surfaces. JavaScript, React." width="100%">
-  </picture>
-</a>
-
-<a href="https://artgridx.nextgenaischool.in">
-  <picture>
-    <source media="(max-width: 900px)" srcset="assets/projects/artgridx-mobile.svg">
-    <img src="assets/projects/artgridx.svg" alt="ArtGridX. Next.js and React scrapbook-style portfolio for a drawing artist, with a masonry gallery, animated lightbox, contact form, and mobile admin dashboard. JavaScript, Next.js, React, Lucide React, Razorpay." width="100%">
-  </picture>
-</a>
-
-<a href="https://humanify.nextgenaischool.in">
-  <picture>
-    <source media="(max-width: 900px)" srcset="assets/projects/humanify-mobile.svg">
-    <img src="assets/projects/humanify.svg" alt="Humanify. A JavaScript web application built with Next.js and React, backed by an authenticated API. JavaScript, Next.js, React." width="100%">
-  </picture>
-</a>
-
-<a href="https://github.com/Lakshay-13/hunar">
-  <picture>
-    <source media="(max-width: 900px)" srcset="assets/projects/hunar-mobile.svg">
-    <img src="assets/projects/hunar.svg" alt="Hunar. Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard. JavaScript, CSS, React 19, React Router, Bootstrap 5." width="100%">
-  </picture>
-</a>
+- [Smart Driver Monitoring Dashboard](https://github.com/Anshuman791322/smart-driver-monitoring-dashboard-downloads) — A Kotlin and Jetpack Compose driver-monitoring app published as downloadable Android APKs.
+- [Zinging](https://lakshay-13.github.io/zinging/) — AI assistant with NVIDIA NIM-powered agent workflows, database-backed memory, caching, and translation, prepared for Railway deployment.
+- [Host](https://host.nextgenaischool.in) — React and Vite file-hosting product for uploading, organizing, and sharing files through clean public links, with private-by-default uploads and moderation-aware access.
+- [Tree](https://tree.nextgenaischool.in/) — React identity and profile platform built around interactive tree-based profile surfaces.
+- [ArtGridX](https://artgridx.nextgenaischool.in) — Next.js and React scrapbook-style portfolio for a drawing artist, with a masonry gallery, animated lightbox, contact form, and mobile admin dashboard.
+- [Humanify](https://humanify.nextgenaischool.in) — A JavaScript web application built with Next.js and React, backed by an authenticated API.
+- [Hunar](https://github.com/Lakshay-13/hunar) — Full-stack shopping experience for handmade gifts from independent family artisans, with catalog management, carts, secure payments, order tracking, and an operations dashboard.
 
 </details>
 
 <details>
-<summary><strong>Implementation notes and full stacks for all 11 projects</strong></summary>
+<summary>Full descriptions and technology stacks</summary>
 
 ### [AQG Studio](https://github.com/Anshuman791322/aqg-studio)
 
