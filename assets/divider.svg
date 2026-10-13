@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 18" role="img" aria-label="Blue light moving across a thin line">
+  <style>
+    .pulse{stroke-dasharray:90 1110;animation:travel 8s linear infinite}
+    @keyframes travel{to{stroke-dashoffset:-1200}}
+    @media(prefers-reduced-motion:reduce){.pulse{animation:none}}
+  </style>
+  <path d="M0 9H1200" stroke="#2563eb" stroke-opacity=".22"/>
+  <path class="pulse" d="M0 9H1200" stroke="#60a5fa" stroke-width="2"/>
+</svg>

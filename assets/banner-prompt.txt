@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: anime-inspired panoramic GitHub profile banner artwork, intended as the base of a subtle looping animation.
+Primary request: a carefully illustrated anime night-time developer workspace beside an open window, overlooking a futuristic blue city and pale sky, designed for Anshuman Singh's profile.
+Style/medium: premium hand-painted anime background, precise cinematic linework, cel shading, expressive blue atmospheric perspective, fine architectural details, restrained luminous accents. Original setting, no franchise characters.
+Composition/framing: ultrawide 3:1 panoramic composition, roughly 1536 by 512. On the right half, an angled laptop and desk beside the window, a city skyline beyond, a few cherry blossom petals in the air. Left half has a dark indigo quiet area suitable for large white name typography to be overlaid later. The scene should remain richly illustrated, not a flat placeholder. Important scene content is vertically centered and fits an ultrawide crop.
+Lighting/mood: blue-hour evening, soft cobalt and ice-blue illumination, small warm amber lights, relaxed and inventive.
+Color palette: existing profile blue #2563EB, deep ink-blue, pale ice-blue, a little dusty blossom pink.
+Constraints: no people or avatar, because the existing avatar will remain intact as a separate profile element. No lettering, no logos, no watermarks, no borders. Do not include interface panels, charts, fake code or tiny text.

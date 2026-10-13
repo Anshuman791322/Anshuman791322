@@ -1,26 +1,57 @@
-<table border="0">
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="https://anshuman791322.github.io/avatar-cut.png" alt="Anshuman Singh" width="170">
-    </td>
-    <td valign="middle">
-      <h1>Anshuman Singh</h1>
-      <p>Computer Science Engineering student building software with AI, machine learning, and modern web technologies.</p>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-still.png">
+  <img src="assets/banner.gif" alt="Anshuman Singh. Building with AI. Anime-inspired evening workspace overlooking a blue city, with drifting cherry blossom petals." width="100%">
+</picture>
 
-<p align="center">
-  <a href="https://anshuman791322.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" alt="Portfolio"></a>
-  <a href="mailto:Anshuman6062@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" alt="Email"></a>
-  <a href="https://github.com/Anshuman791322"><img src="https://img.shields.io/badge/GITHUB-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" alt="GitHub"></a>
+<p align="right"><sub><a href="assets/banner-still.png">View the still banner</a></sub></p>
+
+<img src="assets/avatar.png" alt="Anshuman Singh's original illustrated avatar" width="155" align="right">
+
+# Hi, I'm Anshuman.
+
+I'm a Computer Science Engineering student at Jagannath University. I build AI systems, desktop tools, and full-stack applications.
+
+I'm currently interested in **local AI agents**, **local-first software**, and turning document and data pipelines into useful products.
+
+<p>
+  <a href="https://anshuman791322.github.io"><img src="assets/link-portfolio.svg" alt="Visit my portfolio" height="34"></a>
+  <a href="mailto:Anshuman6062@gmail.com"><img src="assets/link-email.svg" alt="Email me" height="34"></a>
 </p>
 
-## About
+<br clear="all">
 
-I build AI systems, desktop tools, and data-driven applications. My current interests include local AI agents, local-first software, and full-stack product development.
+[Selected work](#selected-work) · [My toolkit](#my-toolkit) · [Activity](#activity) · [Connect](#connect)
 
-## Projects
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Selected work
+
+### [AQG Studio](https://github.com/Anshuman791322/aqg-studio)
+
+Documents in, grounded quizzes out. A full-stack assessment platform with a LangGraph pipeline, retrieval, quality checks, human review, and exports to learning platforms.
+
+`Python` `FastAPI` `LangGraph` `Next.js` `TypeScript` `PostgreSQL / pgvector`
+
+### [JARVIS Windows Local](https://github.com/Anshuman791322/Ai-agent)
+
+A Windows desktop assistant with local Ollama reasoning, voice control, transcription, SQLite memory, and policy-gated actions.
+
+`Python` `PySide6` `Ollama` `faster-whisper` `SQLite`
+
+### [Classifying Periodic Variable Stars](https://github.com/Anshuman791322/periodically-variable-stars)
+
+Classifying RR Lyrae, Cepheids, long-period variables, and eclipsing binaries using Gaia DR3 photometry and sequence models.
+
+`Python` `Pandas` `scikit-learn` `TensorFlow / Keras`
+
+### [Personal portfolio](https://anshuman791322.github.io)
+
+A Next.js portfolio with Anime.js motion design, exported to GitHub Pages.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Anime.js`
+
+<details>
+<summary><strong>Explore all 11 projects and their full stacks</strong></summary>
 
 ### [AQG Studio](https://github.com/Anshuman791322/aqg-studio)
 
@@ -88,9 +119,24 @@ Full-stack shopping experience for handmade gifts from independent family artisa
 
 `JavaScript` `CSS` `React 19` `React Router` `Bootstrap 5` `Anime.js` `Node.js` `Express 5` `PostgreSQL` `Google OAuth` `JWT` `Razorpay` `Shiprocket` `Jest` `React Testing Library`
 
+</details>
 
+## My toolkit
 
-## Tools and technologies
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
+  <img src="assets/toolkit.svg" alt="Python, TypeScript, JavaScript, React, Next.js, FastAPI, PostgreSQL, and Docker" width="100%">
+</picture>
+
+| Area | What I use |
+| :--- | :--- |
+| AI and models | LangGraph, RAG, Ollama, OpenRouter, NVIDIA NIM, PyTorch, TensorFlow |
+| Interfaces and APIs | Next.js, React, TypeScript, Tailwind CSS, FastAPI, PySide6, Kotlin / Compose |
+| Data | PostgreSQL, pgvector, Supabase, SQLite, SQLAlchemy, Pandas, NumPy |
+| Delivery | Git, GitHub Actions, Docker, Vercel, Render, Railway, GitHub Pages |
+
+<details>
+<summary>Full technology list</summary>
 
 I build applied AI and full-stack software, from document parsing and RAG pipelines to local model inference, APIs, and web and desktop interfaces.
 
@@ -117,12 +163,36 @@ I build applied AI and full-stack software, from document parsing and RAG pipeli
 **Development and delivery**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![GitHub_Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) ![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge) ![Inno_Setup](https://img.shields.io/badge/Inno_Setup-0078D4?style=for-the-badge)
+
+</details>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img src="assets/activity-light.svg" alt="Anshuman's GitHub contributions over the last year, refreshed daily" width="100%">
+</picture>
+
+<details>
+<summary>Recent public pull requests</summary>
+
+<!-- ACTIVITY:START -->
+- [\[WIP\] Fix failing GitHub Actions job for backend lint, typecheck and tests](https://github.com/Anshuman791322/aqg-studio/pull/2) · `Anshuman791322/aqg-studio` · Open
+- [Resolve backend CI failure by normalizing Ruff import blocks in export/report paths](https://github.com/Anshuman791322/aqg-studio/pull/1) · `Anshuman791322/aqg-studio` · Open
+- [\[codex\] Add secure Gemini provider and key UI](https://github.com/Anshuman791322/Ai-agent/pull/1) · `Anshuman791322/Ai-agent` · Open
+
+<sub>Updated 2026-10-13 · refreshed daily by GitHub Actions.</sub>
+<!-- ACTIVITY:END -->
+
+</details>
+
 ## Education
 
-**Bachelor of Technology (Computer Science Engineering)**, Jagannath University `(09/2023 - 07/2027)`
+**Bachelor of Technology, Computer Science Engineering**<br>
+Jagannath University · September 2023 to July 2027
 
 ## Connect
 
-- **Email:** [Anshuman6062@gmail.com](mailto:Anshuman6062@gmail.com)
-- **Portfolio:** [anshuman791322.github.io](https://anshuman791322.github.io)
-- **GitHub:** [github.com/Anshuman791322](https://github.com/Anshuman791322)
+[Portfolio](https://anshuman791322.github.io) · [Anshuman6062@gmail.com](mailto:Anshuman6062@gmail.com) · [GitHub](https://github.com/Anshuman791322)

@@ -1,0 +1,10 @@
+{
+  "name": "anshuman-profile-artwork",
+  "private": true,
+  "scripts": {
+    "render:banner": "node scripts/render-banner.cjs"
+  },
+  "devDependencies": {
+    "sharp": "0.34.5"
+  }
+}
