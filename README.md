@@ -5,9 +5,9 @@
 
 <p align="right"><sub><a href="assets/banner-still.png">View the still banner</a></sub></p>
 
-<img src="assets/avatar.png" alt="Anshuman Singh's original illustrated avatar" width="155" align="right">
-
 # Hi, I'm Anshuman.
+
+<img src="assets/avatar.png" alt="Anshuman Singh's original illustrated avatar" width="155" align="right">
 
 I'm a Computer Science Engineering student at Jagannath University. I build AI systems, desktop tools, and full-stack applications.
 
