@@ -244,6 +244,15 @@ A server-first portfolio built with Next.js 15, React 19, TypeScript, and Tailwi
 
 ## My toolkit
 
+<!-- AI-TOOLKIT:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 540px)" srcset="assets/ai-icons/toolkit-mobile-dark-c6b1c270.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-icons/toolkit-desktop-dark-b660c4f8.svg">
+  <source media="(max-width: 540px)" srcset="assets/ai-icons/toolkit-mobile-light-d6060837.svg">
+  <img src="assets/ai-icons/toolkit-desktop-light-94b17590.svg" alt="AI assistants: Codex, ChatGPT, Claude, Gemini, GLM, and DeepSeek" width="100%">
+</picture>
+<!-- AI-TOOLKIT:END -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
   <img src="assets/toolkit.svg" alt="Python, TypeScript, JavaScript, React, Next.js, FastAPI, PostgreSQL, and Docker" width="100%">
@@ -251,6 +260,7 @@ A server-first portfolio built with Next.js 15, React 19, TypeScript, and Tailwi
 
 | Area | What I use |
 | :--- | :--- |
+| AI assistants | Codex, ChatGPT, Claude, Gemini, GLM, DeepSeek |
 | AI and models | LangGraph, RAG, Ollama, OpenRouter, NVIDIA NIM, PyTorch, TensorFlow |
 | Interfaces and APIs | Next.js, React, TypeScript, Tailwind CSS, FastAPI, PySide6, Kotlin / Compose |
 | Data | PostgreSQL, pgvector, Supabase, SQLite, SQLAlchemy, Pandas, NumPy |

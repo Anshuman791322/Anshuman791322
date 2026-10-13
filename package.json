@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "render:banner": "node scripts/render-banner.cjs",
+    "render:ai-toolkit": "node scripts/render-ai-toolkit.cjs",
     "render:projects": "node scripts/render-projects.cjs && node scripts/update-project-section.cjs"
   },
   "devDependencies": {

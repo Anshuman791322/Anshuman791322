@@ -1,0 +1,30 @@
+{
+  "package": "@lobehub/icons-static-svg",
+  "version": "1.95.1",
+  "sources": [
+    {
+      "file": "codex.svg",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/codex.svg"
+    },
+    {
+      "file": "openai.svg",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/openai.svg"
+    },
+    {
+      "file": "claude-color.svg",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/claude-color.svg"
+    },
+    {
+      "file": "gemini-color.svg",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/gemini-color.svg"
+    },
+    {
+      "file": "chatglm-color.svg",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/chatglm-color.svg"
+    },
+    {
+      "file": "deepseek-color.svg",
+      "url": "https://unpkg.com/@lobehub/icons-static-svg@1.95.1/icons/deepseek-color.svg"
+    }
+  ]
+}

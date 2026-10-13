@@ -1,0 +1,30 @@
+[
+  {
+    "mobile": false,
+    "dark": false,
+    "file": "toolkit-desktop-light-94b17590.svg",
+    "width": 840,
+    "height": 108
+  },
+  {
+    "mobile": false,
+    "dark": true,
+    "file": "toolkit-desktop-dark-b660c4f8.svg",
+    "width": 840,
+    "height": 108
+  },
+  {
+    "mobile": true,
+    "dark": false,
+    "file": "toolkit-mobile-light-d6060837.svg",
+    "width": 420,
+    "height": 216
+  },
+  {
+    "mobile": true,
+    "dark": true,
+    "file": "toolkit-mobile-dark-c6b1c270.svg",
+    "width": 420,
+    "height": 216
+  }
+]
