@@ -58,7 +58,7 @@ const style = `<style>
 @keyframes wave{0%,100%{transform:scaleY(.35)}45%{transform:scaleY(1)}}
 @keyframes reply{0%,15%{stroke-dashoffset:180}55%,100%{stroke-dashoffset:0}}
 @keyframes scan{0%,100%{transform:translateX(0)}50%{transform:translateX(238px)}}
-@keyframes site{0%,100%{transform:translateX(0)}50%{transform:translateX(-36px)}}
+@keyframes site{0%,100%{transform:translateX(0)}50%{transform:translateX(-6px)}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>`;
 function illustration(id, l) {
@@ -96,14 +96,14 @@ function illustration(id, l) {
     <path class="scan" d="M30 29V116" stroke="#4265bb" stroke-opacity=".45" stroke-width="2"/></g>`;
   return `<defs><clipPath id="site-clip"><rect x="12" y="15" width="270" height="123" rx="3"/></clipPath></defs>
     <g clip-path="url(#site-clip)"><rect x="12" y="15" width="270" height="123" fill="#080e16"/>
-    <image class="site" x="12" y="15" width="310" height="137" preserveAspectRatio="xMidYMid slice" href="data:${mime};base64,${data}"/></g>`;
+    <image class="site" x="20" y="15" width="294" height="137" preserveAspectRatio="xMidYMid slice" href="data:${mime};base64,${data}"/></g>`;
 }
 function row(project, mobile, dark, still) {
   const l = new Lettering(), theme = themes[dark?'dark':'light'];
   const w = mobile ? 420 : 840, pad = mobile ? 16 : 10;
   const x = mobile ? pad : 328, max = w-x-pad;
   let y = mobile ? 37 : 39, content = '';
-  const headingSize = mobile ? 30 : 32, bodySize = mobile ? 24 : 22;
+  const headingSize = mobile ? 30 : 32, bodySize = 24;
   l.wrap(project.displayName,headingSize,max).forEach(line => { content += l.text(line,x,y,headingSize,theme.title); y += headingSize*1.2; });
   y += 8;
   const lines = l.wrap(copy[project.id],bodySize,max);
